@@ -1,0 +1,51 @@
+body {
+    margin: 0%;
+    font-family: 'Patrick Hand', cursive;
+    background-color: black;
+    color: white;
+}
+
+#header {
+    height: 100vh;
+    background-image: url('../img/Fast\ and\ furious\ 9.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+#header h1 {
+    color: white;
+    margin: 0;
+    padding: 0 20%;
+    font-size: 50px;
+}
+
+#main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#main p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#spoiler {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#reparto {
+    font-family: 'Lobster', cursive;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
